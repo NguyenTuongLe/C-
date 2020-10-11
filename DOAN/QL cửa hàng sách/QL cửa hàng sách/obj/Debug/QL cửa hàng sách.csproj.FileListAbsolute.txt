@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\bin\Debug\QL cửa hàng sách.exe.config
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\bin\Debug\QL cửa hàng sách.exe
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\bin\Debug\QL cửa hàng sách.pdb
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\obj\Debug\QL cửa hàng sách.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\obj\Debug\QL_cửa_hàng_sách.Form1.resources
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\obj\Debug\QL_cửa_hàng_sách.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\obj\Debug\QL cửa hàng sách.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\obj\Debug\QL cửa hàng sách.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\obj\Debug\QL cửa hàng sách.exe
+C:\Users\ASUS\source\repos\QL cửa hàng sách\QL cửa hàng sách\obj\Debug\QL cửa hàng sách.pdb
